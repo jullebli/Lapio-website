@@ -1,25 +1,35 @@
 .first-box {
     width: 200px;
-    height: 100px;
+    height: 150px;
     background-color: red;
+    border-style: solid;
+    border-color: green;
+    border-width: 10px;
 
     position: absolute;
+    text-align: center;
 }
 
 .second-box {
     width: 200px;
-    height: 100px;
+    height: 150px;
     background-color: yellow;
+    border-style: solid;
+    border-color:red;
+    border-width: 10px;
 
     position: absolute;
-    left: 250px;
+    left: 250px;   
     
 }
 
 .third-box {
     width: 200px;
-    height: 100px;
+    height: 150px;
     background-color: green;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 10px;
 
     position: absolute;
     left: 485px;
@@ -27,6 +37,9 @@
 }
 
 .text {
-    position: absolute;
-    top: 0%;
+    margin-top: 50%;
+    margin-top: 50px;
+    color: blue;
+    text-align: center;
+    text-transform: capitalize;
 }
