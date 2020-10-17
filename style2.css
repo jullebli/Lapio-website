@@ -1,0 +1,50 @@
+body {
+  margin: 0 auto;
+  padding: 4em 1em;
+  max-width: 50em;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  line-height: 1.5;
+  color: #555;
+
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  margin-top: 1em;
+  padding-top: lem;
+  color: #333;
+  font-size: 1.5em;
+}
+
+h3 {
+  margin-top: 1em;
+  padding-top: lem;
+  color: #333;
+  font-size: 1em;
+}
+
+.bigger {
+  font-size: 1.25em;
+}
+
+p {
+    background-color: wheat;
+}
+
+li {
+    color: teal;
+    position: relative;
+    left: 5%;
+}
+
+.diff {
+    background-color: yellow;
+    width: 200px;
+    height: 30px;
+    position: relarive;
+    text-align: center;
+    left: 0%;
+}
